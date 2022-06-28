@@ -26,7 +26,7 @@
 You can either clone the repository or use this template to kick-start your project.
 
 ```
-npx create-next-app -e https://github.com/Decentralized-Brains/DAPP-Next-JS-Boiler-Plate.git
+npx create-next-app -e https://github.com/XPro-Gamer-Rhine/Wagmi-NextJS
 ```
 
 Install all dependencies,
